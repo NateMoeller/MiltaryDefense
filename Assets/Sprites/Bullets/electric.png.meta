@@ -1,0 +1,217 @@
+fileFormatVersion: 2
+guid: 724959c1d4f84264992dd8b81a3b110b
+timeCreated: 1484792392
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: electric_0
+    21300002: electric_1
+    21300004: electric_2
+    21300006: electric_3
+    21300008: electric_4
+    21300010: electric_5
+    21300012: electric_6
+    21300014: electric_7
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 200
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: electric_0
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 227
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -31, y: 48}
+        - {x: -48, y: 39}
+        - {x: -48, y: -43}
+        - {x: -33, y: -48}
+        - {x: 41, y: -48}
+        - {x: 48, y: -32}
+        - {x: 48, y: 38}
+        - {x: 41, y: 48}
+    - name: electric_1
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 225
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -40, y: 49}
+        - {x: -49, y: 43}
+        - {x: -49, y: -27}
+        - {x: -39, y: -49}
+        - {x: 42, y: -49}
+        - {x: 49, y: -37}
+        - {x: 49, y: 34}
+        - {x: 27, y: 49}
+    - name: electric_2
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 227
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -40, y: 48}
+        - {x: -48, y: 27}
+        - {x: -48, y: -31}
+        - {x: -32, y: -48}
+        - {x: 30, y: -48}
+        - {x: 48, y: -27}
+        - {x: 48, y: 33}
+        - {x: 29, y: 48}
+    - name: electric_3
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 117
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -41, y: 48}
+        - {x: -48, y: 27}
+        - {x: -48, y: -48}
+        - {x: 48, y: -48}
+        - {x: 48, y: 40}
+        - {x: 30, y: 48}
+    - name: electric_4
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 116
+        width: 99
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -32.5, y: 48.5}
+        - {x: -48.5, y: 21.5}
+        - {x: -49.5, y: 16.5}
+        - {x: -49.5, y: -20.5}
+        - {x: -35.5, y: -48.5}
+        - {x: 34.5, y: -48.5}
+        - {x: 49.5, y: -41.5}
+        - {x: 49.5, y: 36.5}
+        - {x: 46.5, y: 48.5}
+    - name: electric_5
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 116
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -36, y: 49}
+        - {x: -49, y: 22}
+        - {x: -49, y: -30}
+        - {x: -29, y: -49}
+        - {x: 47, y: -49}
+        - {x: 49, y: -41}
+        - {x: 49, y: 49}
+    - name: electric_6
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 7
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27, y: 48}
+        - {x: -48, y: 29}
+        - {x: -48, y: -30}
+        - {x: -29, y: -48}
+        - {x: 28, y: -48}
+        - {x: 30, y: -47}
+        - {x: 48, y: -35}
+        - {x: 48, y: 27}
+        - {x: 39, y: 48}
+    - name: electric_7
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 6
+        width: 99
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28.5, y: 48.5}
+        - {x: -49.5, y: 32.5}
+        - {x: -49.5, y: -36.5}
+        - {x: -33.5, y: -47.5}
+        - {x: -27.5, y: -48.5}
+        - {x: 25.5, y: -48.5}
+        - {x: 49.5, y: -25.5}
+        - {x: 49.5, y: 24.5}
+        - {x: 23.5, y: 48.5}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

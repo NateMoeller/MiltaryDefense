@@ -1,0 +1,474 @@
+fileFormatVersion: 2
+guid: 238321b41ea5a5b4193dc21c7d4d2806
+timeCreated: 1480616058
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: portal_0
+    21300002: portal_1
+    21300004: portal_2
+    21300006: portal_3
+    21300008: portal_4
+    21300010: portal_5
+    21300012: portal_6
+    21300014: portal_7
+    21300016: portal_8
+    21300018: portal_9
+    21300020: portal_10
+    21300022: portal_11
+    21300024: portal_12
+    21300026: portal_13
+    21300028: portal_14
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 200
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: portal_0
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 893
+        width: 146
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 73, y: -52}
+        - {x: 73, y: 58}
+        - {x: 62, y: 130}
+        - {x: 31, y: 170}
+        - {x: -27, y: 170}
+        - {x: -42, y: 144}
+        - {x: -48, y: 131}
+        - {x: -73, y: 60}
+        - {x: -73, y: -48}
+        - {x: -49, y: -158}
+        - {x: -27, y: -170}
+        - {x: 21, y: -170}
+        - {x: 42, y: -157}
+        - {x: 55, y: -128}
+        - {x: 67, y: -94}
+    - name: portal_1
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 894
+        width: 143
+        height: 336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 71.5, y: 71}
+        - {x: 66.5, y: 107}
+        - {x: 38.5, y: 160}
+        - {x: 25.5, y: 168}
+        - {x: -23.5, y: 168}
+        - {x: -46.5, y: 143}
+        - {x: -71.5, y: 73}
+        - {x: -71.5, y: -71}
+        - {x: -56.5, y: -145}
+        - {x: -43.5, y: -161}
+        - {x: -19.5, y: -168}
+        - {x: 10.5, y: -168}
+        - {x: 21.5, y: -167}
+        - {x: 31.5, y: -165}
+        - {x: 61.5, y: -118}
+        - {x: 71.5, y: -71}
+    - name: portal_2
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 893
+        width: 145
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 72.5, y: 49}
+        - {x: 66.5, y: 99}
+        - {x: 52.5, y: 143}
+        - {x: 25.5, y: 170}
+        - {x: -16.5, y: 170}
+        - {x: -22.5, y: 169}
+        - {x: -48.5, y: 143}
+        - {x: -72.5, y: 71}
+        - {x: -72.5, y: -72}
+        - {x: -57.5, y: -146}
+        - {x: -44.5, y: -162}
+        - {x: -23.5, y: -170}
+        - {x: 22.5, y: -170}
+        - {x: 28.5, y: -169}
+        - {x: 42.5, y: -152}
+        - {x: 61.5, y: -119}
+        - {x: 72.5, y: -59}
+    - name: portal_3
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 890
+        width: 146
+        height: 347
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 65, y: 104.5}
+        - {x: 52, y: 140.5}
+        - {x: 28, y: 173.5}
+        - {x: -11, y: 173.5}
+        - {x: -30, y: 165.5}
+        - {x: -47, y: 153.5}
+        - {x: -60, y: 123.5}
+        - {x: -73, y: 68.5}
+        - {x: -73, y: -26.5}
+        - {x: -70, y: -80.5}
+        - {x: -49, y: -156.5}
+        - {x: -17, y: -173.5}
+        - {x: 29, y: -173.5}
+        - {x: 58, y: -140.5}
+        - {x: 73, y: -72.5}
+        - {x: 73, y: 54.5}
+    - name: portal_4
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 893
+        width: 145
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 65.5, y: 99}
+        - {x: 43.5, y: 153}
+        - {x: 25.5, y: 170}
+        - {x: -10.5, y: 170}
+        - {x: -29.5, y: 167}
+        - {x: -46.5, y: 154}
+        - {x: -55.5, y: 142}
+        - {x: -72.5, y: 71}
+        - {x: -72.5, y: -31}
+        - {x: -61.5, y: -105}
+        - {x: -42.5, y: -152}
+        - {x: -25.5, y: -169}
+        - {x: -20.5, y: -170}
+        - {x: 25.5, y: -170}
+        - {x: 55.5, y: -145}
+        - {x: 72.5, y: -62}
+        - {x: 72.5, y: 65}
+    - name: portal_5
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 462
+        width: 145
+        height: 336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 72.5, y: 57}
+        - {x: 63.5, y: 106}
+        - {x: 43.5, y: 151}
+        - {x: 27.5, y: 168}
+        - {x: -27.5, y: 168}
+        - {x: -49.5, y: 142}
+        - {x: -72.5, y: 60}
+        - {x: -72.5, y: -37}
+        - {x: -57.5, y: -120}
+        - {x: -42.5, y: -158}
+        - {x: -24.5, y: -168}
+        - {x: 21.5, y: -168}
+        - {x: 39.5, y: -154}
+        - {x: 63.5, y: -113}
+        - {x: 72.5, y: -57}
+    - name: portal_6
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 461
+        width: 146
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 73, y: 75}
+        - {x: 51, y: 147}
+        - {x: 27, y: 170}
+        - {x: -19, y: 170}
+        - {x: -30, y: 167}
+        - {x: -55, y: 115}
+        - {x: -73, y: 60}
+        - {x: -73, y: -44}
+        - {x: -64, y: -123}
+        - {x: -33, y: -170}
+        - {x: 29, y: -170}
+        - {x: 43, y: -154}
+        - {x: 63, y: -110}
+        - {x: 73, y: -69}
+    - name: portal_7
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 458
+        width: 146
+        height: 347
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 71, y: 100.5}
+        - {x: 46, y: 151.5}
+        - {x: 29, y: 172.5}
+        - {x: 22, y: 173.5}
+        - {x: -10, y: 173.5}
+        - {x: -24, y: 168.5}
+        - {x: -52, y: 135.5}
+        - {x: -64, y: 101.5}
+        - {x: -73, y: 70.5}
+        - {x: -73, y: -71.5}
+        - {x: -67, y: -126.5}
+        - {x: -47, y: -167.5}
+        - {x: -21, y: -173.5}
+        - {x: 32, y: -173.5}
+        - {x: 61, y: -124.5}
+        - {x: 73, y: -70.5}
+        - {x: 73, y: 66.5}
+    - name: portal_8
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 461
+        width: 145
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 57.5, y: 127}
+        - {x: 35.5, y: 162}
+        - {x: 29.5, y: 170}
+        - {x: -24.5, y: 170}
+        - {x: -41.5, y: 149}
+        - {x: -70.5, y: 85}
+        - {x: -72.5, y: 61}
+        - {x: -72.5, y: -75}
+        - {x: -52.5, y: -154}
+        - {x: -43.5, y: -161}
+        - {x: -16.5, y: -170}
+        - {x: 30.5, y: -170}
+        - {x: 58.5, y: -130}
+        - {x: 72.5, y: -77}
+        - {x: 72.5, y: 73}
+    - name: portal_9
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 462
+        width: 143
+        height: 336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 71.5, y: 62}
+        - {x: 62.5, y: 106}
+        - {x: 48.5, y: 147}
+        - {x: 26.5, y: 168}
+        - {x: -12.5, y: 168}
+        - {x: -38.5, y: 162}
+        - {x: -56.5, y: 135}
+        - {x: -71.5, y: 56}
+        - {x: -71.5, y: -18}
+        - {x: -62.5, y: -104}
+        - {x: -49.5, y: -138}
+        - {x: -32.5, y: -168}
+        - {x: 24.5, y: -168}
+        - {x: 30.5, y: -164}
+        - {x: 57.5, y: -132}
+        - {x: 71.5, y: -72}
+    - name: portal_10
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 29
+        width: 145
+        height: 339
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 72.5, y: 63.5}
+        - {x: 67.5, y: 86.5}
+        - {x: 57.5, y: 127.5}
+        - {x: 30.5, y: 169.5}
+        - {x: -25.5, y: 169.5}
+        - {x: -40.5, y: 166.5}
+        - {x: -62.5, y: 123.5}
+        - {x: -72.5, y: 63.5}
+        - {x: -72.5, y: -31.5}
+        - {x: -66.5, y: -83.5}
+        - {x: -54.5, y: -137.5}
+        - {x: -30.5, y: -169.5}
+        - {x: 28.5, y: -169.5}
+        - {x: 43.5, y: -154.5}
+        - {x: 69.5, y: -99.5}
+        - {x: 72.5, y: -59.5}
+    - name: portal_11
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 25
+        width: 147
+        height: 347
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 69.5, y: 96.5}
+        - {x: 42.5, y: 162.5}
+        - {x: 24.5, y: 173.5}
+        - {x: -11.5, y: 173.5}
+        - {x: -22.5, y: 171.5}
+        - {x: -50.5, y: 131.5}
+        - {x: -73.5, y: 62.5}
+        - {x: -73.5, y: -38.5}
+        - {x: -59.5, y: -117.5}
+        - {x: -40.5, y: -156.5}
+        - {x: -27.5, y: -169.5}
+        - {x: -8.5, y: -173.5}
+        - {x: 28.5, y: -173.5}
+        - {x: 52.5, y: -147.5}
+        - {x: 73.5, y: -74.5}
+        - {x: 73.5, y: 58.5}
+    - name: portal_12
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 29
+        width: 146
+        height: 339
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 73, y: 61.5}
+        - {x: 66, y: 99.5}
+        - {x: 44, y: 152.5}
+        - {x: 25, y: 169.5}
+        - {x: -24, y: 169.5}
+        - {x: -51, y: 131.5}
+        - {x: -73, y: 61.5}
+        - {x: -73, y: -66.5}
+        - {x: -47, y: -161.5}
+        - {x: -29, y: -165.5}
+        - {x: -26, y: -166.5}
+        - {x: -18, y: -169.5}
+        - {x: 28, y: -169.5}
+        - {x: 60, y: -139.5}
+        - {x: 72, y: -81.5}
+        - {x: 73, y: -59.5}
+    - name: portal_13
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 29
+        width: 143
+        height: 337
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 71.5, y: 77.5}
+        - {x: 64.5, y: 105.5}
+        - {x: 42.5, y: 152.5}
+        - {x: 29.5, y: 168.5}
+        - {x: -29.5, y: 168.5}
+        - {x: -49.5, y: 136.5}
+        - {x: -68.5, y: 85.5}
+        - {x: -71.5, y: 58.5}
+        - {x: -71.5, y: -72.5}
+        - {x: -59.5, y: -147.5}
+        - {x: -33.5, y: -168.5}
+        - {x: 24.5, y: -168.5}
+        - {x: 34.5, y: -164.5}
+        - {x: 66.5, y: -103.5}
+        - {x: 71.5, y: -77.5}
+    - name: portal_14
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 29
+        width: 145
+        height: 339
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 72.5, y: 50.5}
+        - {x: 65.5, y: 99.5}
+        - {x: 45.5, y: 146.5}
+        - {x: 37.5, y: 157.5}
+        - {x: 24.5, y: 169.5}
+        - {x: -11.5, y: 169.5}
+        - {x: -21.5, y: 168.5}
+        - {x: -37.5, y: 156.5}
+        - {x: -72.5, y: 85.5}
+        - {x: -72.5, y: -79.5}
+        - {x: -61.5, y: -148.5}
+        - {x: -34.5, y: -169.5}
+        - {x: 27.5, y: -169.5}
+        - {x: 58.5, y: -138.5}
+        - {x: 65.5, y: -98.5}
+        - {x: 72.5, y: -63.5}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
